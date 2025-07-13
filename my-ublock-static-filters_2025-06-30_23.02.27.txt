@@ -123,3 +123,8 @@ xhamster19.com##.ae86a411.e23f7ede.ba54967f
 
 ! 18 Jun 2025 https://xhamster19.com
 xhamster19.com##.wrapper-dab84
+
+! 13 Jul 2025 https://novelfire.net
+novelfire.net###chapter-container > .mb-3.nf-ads
+novelfire.net##div.mb-3.nf-ads:nth-of-type(1)
+novelfire.net##div.mb-3.nf-ads:nth-of-type(2)
